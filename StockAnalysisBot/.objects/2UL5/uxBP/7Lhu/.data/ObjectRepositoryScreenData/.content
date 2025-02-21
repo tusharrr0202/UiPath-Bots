@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="vtHQmTgHzUy1CEopqT8ybg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJSSURBVDhPfZDfT1JhHMbfP4G1yqu4iztXbV3RlTdhs8lFmP1gtEXlqjVzuamNhQqbeeaUtC5wjJNlooGwnNzkpqMD0Q+cuQnYgpEgvyxp0g3RxdPe93AQXXW2z57v83yf77l4iVOIyLzLcX4xnMRiOIUlSqRCOMUyuqNenEVPb1xCREaGHW/4RzMCLNMCLDMC6CxR69l+em9Ob8ldbhbtnEtkcB9SzrnAeoP7lHOBaO7Z8D90PU/hC65jeTWB0GoCTm+I5S2d4p403BgFo21MRJpr9HbvC0if//1nNLTt7sgp/QgoSqYWppQpTxCGITdUNx8jtPIFP4tF/C6XsRQIs54EOaHloLwq/kQKJ91+pDc3kc/lsBZNYCufQ+hTHOfarbA5fNVe/cUBkANn7kOuNqL+0kMo9RY8n/UjHoshm0lj42sCyeQGPq7EoOuywxeM4uSVISg0JtSdNYDekkNNBhxsMoDqrW47opEIUskkOnonMT6xACGwBl2nDeVfJbzyvqt2qVJIndoIRrMRh5sfwDrxGncME+gyTaHL7IBKP4xSqYTizg48829Zj/Zpl0KOaEyQa8wiLWZQ3zPwkj0aPUql8vhRKOD7ty245vyQa0ysI0EUWg6KyxyYajm45j+gsL3NHjCXzTLNZjLIpNNwzgk4Srs1fXLs2iiOXx+rojc6oO/dRyW70P1sT5feEmUHD2WHvQbJU5X4l7eDnO5z86p+NxpNHjT2e0BnFVPR7+aVueJZ1ufmiXpkQaZ54uNbrQG0jgfwNz1v9VeRMnpDb/8Axa2g1aeiSScAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' htmlwindowname='/21751243814,1039154/385208-728-90-1' title='Stock Market: Stock Market Today | Stock Market Live News Update' /&gt;" Url="https://www.moneycontrol.com/stocksmarketsindia/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="de53b6ca9898e41321fb506443fbb136.jpg" xmlns="">04f8ccfk6GE-m6ujmIATaFg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
